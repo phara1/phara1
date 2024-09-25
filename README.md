@@ -1,4 +1,4 @@
-<p align="left">Hello, Puppies!</p>
+# <p align="center">Hello, Puppies!</p>
 
 ###
 
